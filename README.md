@@ -11,7 +11,7 @@ Dikarnakan Akan Menyebabkan Terhapusnya User And Password App
 
 Untuk Yang Blom Memasang ZH3-3 [Download ZH3-3](https://download1491.mediafire.com/ta30pmb92o7g/n9679ab4vzr7l5c/ZH3-3.ovpn)
 
-Diipisahkan Karna Mengalami Bug Di Hp Tertentu
+Dipisahkan Karna Mengalami Bug Di Sebagian Hp Tertentu
 
 ### Thanks to
 * FIXING & TESTING BY SYNTAX 
