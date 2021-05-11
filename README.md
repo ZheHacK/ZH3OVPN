@@ -15,6 +15,6 @@ DiPisahkan Dikarnakan Mengalami Bug Di Hp Tertentu
 
 ### Thanks to
 * FIXING & TESTING BY SYNTAX 
-*(@Gitakusuma_24)
-*(@AdoMozama)
-*(@4NONYMOUS24)
+* (@Gitakusuma_24)
+* (@AdoMozama)
+* (@4NONYMOUS24)
