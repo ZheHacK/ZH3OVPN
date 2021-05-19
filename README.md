@@ -15,5 +15,5 @@ Dipisahkan Karna Mengalami Bug Di Sebagian Hp Tertentu
 
 ### Thanks to
 * FIXING & TESTING BY SYNTAX 
-* (@Gitakusuma_24)
-* (@indosec)
+* @Gitakusuma_24
+* @IndoCyberArmy
