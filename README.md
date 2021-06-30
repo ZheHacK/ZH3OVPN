@@ -7,7 +7,7 @@ Dikarnakan Akan Menyebabkan Terhapusnya User And Password App
 
 
 
-[UPDATE APP ZH3 V1.1.33](https://github.com/ZheHacK/ZH3OVPN/raw/main/ZH3%20IM3-1.1.34.apk)
+[UPDATE APP ZH3 V1.1.34](https://github.com/ZheHacK/ZH3OVPN/raw/main/ZH3%20IM3-1.1.34.apk)
 
 Untuk Yang Blom Memasang ZH3-3 [Download ZH3-3](https://download1491.mediafire.com/ta30pmb92o7g/n9679ab4vzr7l5c/ZH3-3.ovpn)
 
