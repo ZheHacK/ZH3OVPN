@@ -13,6 +13,14 @@ Untuk Yang Blom Memasang ZH3-3 [Download ZH3-3](https://download1491.mediafire.c
 
 Dipisahkan Karna Mengalami Bug Di Sebagian Hp Tertentu
 
+
+##UPDATE TERBARU
+* Unlimited
+* Fix Bug
+* Add Opsi Pengembang Tambahan
+* Dll
+
+
 ### Thanks to
 * FIXING & TESTING BY SYNTAX 
 * @Gitakusuma_24
